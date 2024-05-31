@@ -1,0 +1,112 @@
+{
+    "happy": [
+        "pop",
+        "dance",
+        "hip hop"
+    ],
+    "sad": [
+        "blues",
+        "acoustic",
+        "soul"
+    ],
+    "energetic": [
+        "rock",
+        "electronic",
+        "hard rock"
+    ],
+    "relaxed": [
+        "ambient",
+        "chillout",
+        "new age"
+    ],
+    "angry": [
+        "heavy metal",
+        "hardcore",
+        "punk"
+    ],
+    "romantic": [
+        "soft rock",
+        "r&b",
+        "soul"
+    ],
+    "melancholic": [
+        "blues",
+        "folk",
+        "singer-songwriter"
+    ],
+    "uplifting": [
+        "pop",
+        "gospel",
+        "upbeat electronic"
+    ],
+    "calm": [
+        "ambient",
+        "classical",
+        "soft jazz"
+    ],
+    "nostalgic": [
+        "80s",
+        "90s",
+        "classic rock"
+    ],
+    "focused": [
+        "instrumental",
+        "classical",
+        "minimal electronic"
+    ],
+    "excited": [
+        "dance",
+        "electronic",
+        "pop"
+    ],
+    "sensual": [
+        "r&b",
+        "soul",
+        "soft rock"
+    ],
+    "motivated": [
+        "hip hop",
+        "rock",
+        "electro"
+    ],
+    "reflective": [
+        "acoustic",
+        "folk",
+        "ambient"
+    ],
+    "hopeful": [
+        "pop",
+        "indie",
+        "electronic"
+    ],
+    "anxious": [
+        "punk",
+        "metalcore",
+        "hardcore"
+    ],
+    "dreamy": [
+        "ambient",
+        "chillout",
+        "psychedelic"
+    ],
+    "empowered": [
+        "rock",
+        "hard rock",
+        "Hip-Hop"
+    ],
+    "peaceful": [
+        "classical",
+        "acoustic",
+        "new wave"
+    ],
+    "tense": [
+        "thrash metal",
+        "industrial",
+        "black metal"
+    ],
+    "mysterious": [
+        "soundtrack",
+        "experimental",
+        "progressive rock"
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "rock": [
+        "extroversion",
+        "adventurous"
+    ],
+    "electronic": [
+        "extroversion",
+        "creativity"
+    ],
+    "seen live": [
+        "extroversion",
+        "adventurous"
+    ],
+    "alternative": [
+        "introversion",
+        "creativity"
+    ],
+    "indie": [
+        "introversion",
+        "creativity"
+    ],
+    "pop": [
+        "extroversion"
+    ],
+    "female vocalists": [
+        "introversion",
+        "creativity"
+    ],
+    "metal": [
+        "adventurous"
+    ],
+    "alternative rock": [
+        "introversion",
+        "creativity"
+    ],
+    "jazz": [
+        "introversion",
+        "creativity"
+    ],
+    "classic rock": [
+        "extroversion",
+        "adventurous"
+    ],
+    "ambient": [
+        "introversion",
+        "creativity"
+    ],
+    "experimental": [
+        "creativity"
+    ],
+    "folk": [
+        "introversion",
+        "creativity"
+    ],
+    "indie rock": [
+        "introversion",
+        "creativity"
+    ],
+    "punk": [
+        "adventurous"
+    ],
+    "Hip-Hop": [
+        "extroversion",
+        "adventurous"
+    ],
+    "hard rock": [
+        "adventurous"
+    ],
+    "black metal": [
+        "adventurous"
+    ],
+    "instrumental": [
+        "introversion",
+        "creativity"
+    ],
+    "singer-songwriter": [
+        "introversion",
+        "creativity"
+    ],
+    "dance": [
+        "extroversion"
+    ],
+    "80s": [
+        "extroversion",
+        "adventurous"
+    ],
+    "death metal": [
+        "adventurous"
+    ],
+    "Progressive rock": [
+        "creativity"
+    ],
+    "heavy metal": [
+        "adventurous"
+    ],
+    "hardcore": [
+        "adventurous"
+    ],
+    "british": [
+        "extroversion",
+        "adventurous"
+    ],
+    "soul": [
+        "introversion",
+        "creativity"
+    ],
+    "chillout": [
+        "introversion",
+        "creativity"
+    ],
+    "electronica": [
+        "creativity"
+    ],
+    "rap": [
+        "extroversion",
+        "adventurous"
+    ],
+    "industrial": [
+        "adventurous"
+    ],
+    "Classical": [
+        "introversion",
+        "creativity"
+    ],
+    "punk rock": [
+        "adventurous"
+    ],
+    "Soundtrack": [
+        "introversion",
+        "creativity"
+    ],
+    "blues": [
+        "introversion",
+        "creativity"
+    ],
+    "thrash metal": [
+        "adventurous"
+    ],
+    "90s": [
+        "extroversion",
+        "adventurous"
+    ],
+    "metalcore": [
+        "adventurous"
+    ],
+    "acoustic": [
+        "introversion",
+        "creativity"
+    ],
+    "psychedelic": [
+        "creativity"
+    ],
+    "japanese": [
+        "creativity"
+    ],
+    "hip hop": [
+        "extroversion",
+        "adventurous"
+    ],
+    "post-rock": [
+        "introversion",
+        "creativity"
+    ],
+    "Progressive metal": [
+        "creativity"
+    ],
+    "german": [
+        "creativity"
+    ],
+    "House": [
+        "extroversion",
+        "creativity"
+    ],
+    "funk": [
+        "extroversion",
+        "creativity"
+    ],
+    "new wave": [
+        "extroversion",
+        "creativity"
+    ]
+}
