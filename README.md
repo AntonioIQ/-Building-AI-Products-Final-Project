@@ -1,4 +1,4 @@
-# -Building-AI-Products-Final-Project
+# -Building-AI-Music Recommender
 
 Music Recommender 🎶🎧🎼
 Find your perfect soundtrack with this personalized music recommendation engine! This project combines your personality traits and current mood to suggest new artists and songs that align with your unique style and emotions.
